@@ -19,7 +19,7 @@ I'm Pranav, a student at MAIT, passionate about coding. Welcome to my GitHub pro
 
 - 📧 Email: pranavagarwal3112@gmail.com
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
+- 💼 LinkedIn: https://www.linkedin.com/in/pranav-agarwal-254878290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Feel free to reach out to me for collaborations or just to say hi! 😄
 
