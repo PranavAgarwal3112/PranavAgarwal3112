@@ -6,13 +6,13 @@ I'm Pranav, a student at MAIT, passionate about coding. Welcome to my GitHub pro
 
 - 🌍 I'm based in New Delhi.
 - 💼 I am persueing B.Tech at Maharaja Agrasen Institute Of Technology.
-- 🎓 I am currently learning web development and python.
+- 🎓 I am currently learning programming in CPP .
 - 🚀 I'm passionate about coding, and I'm always exploring new technologies and learning something new.
 
 
 ## My Skills
 
-- 💻 Programming Languages: HTML,CSS,PYTHON.
+- 💻 Programming Languages: HTML,CSS,JS.
 - 🌐 Web Development: Frontend web-dev designing
 
 ## Get in Touch
