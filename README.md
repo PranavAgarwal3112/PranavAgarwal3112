@@ -6,7 +6,7 @@ I'm Pranav, a student at MAIT, passionate about coding. Welcome to my GitHub pro
 
 - 🌍 I'm based in New Delhi.
 - 💼 I am persueing B.Tech at Maharaja Agrasen Institute Of Technology.
-- 🎓 I am currently learning programming in CPP .
+- 🎓 I am currently working as an intern at cantilever.in as web developer .
 - 🚀 I'm passionate about coding, and I'm always exploring new technologies and learning something new.
 
 
